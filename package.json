@@ -1,0 +1,12 @@
+{
+    "name": "enviar-email",
+    "version": "1.0.0",
+    "description": "Aplicação para enviar e-mails",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.18.2",
+        "nodemailer": "^6.9.1"
+    },
+    "author": "Emo-EZzapi",
+    "license": "MIT"
+}
